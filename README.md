@@ -6,11 +6,6 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 
-
-
-
-
-
 <div align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
@@ -19,4 +14,11 @@
 
 </div>
 
-<img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726">
+<h3 align="center">✨ Tools ✨</h3>
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=python&logoColor=white" />&nbsp  
+
+</div>
