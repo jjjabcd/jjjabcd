@@ -5,5 +5,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjabcd&layout=compact)
 
-<img src="https://img.shields.io/badge/PyTorch?style=for-the-badge&logo=PyTorch&logoColor=white">
+# Pytorch
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 
