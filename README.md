@@ -7,7 +7,7 @@
   </a>
 </span>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlsgurjh)](https://solved.ac/rlawlsgurjh/)
+
 
 
 
