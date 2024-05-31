@@ -1,6 +1,6 @@
-<div align="center">
-  ## Hi 👋
-  <h3 align="left">✨ Contacts ✨</h3>
+## Hi 👋
+  <div align="center">
+    ✨ Contacts ✨ <br>
   <span>
     <a href="https://www.instagram.com/jinhyeok0906/">
       <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
